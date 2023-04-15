@@ -26,7 +26,7 @@ No: employee did not leave the company | Yes: employee did leave the company
 ### Hypothesis Testing on Opioid Overdoses to Advocate for Narcan Usage
 Narcan can be a life-saving medicine to rapidly reverse an opioid overdose in emergency situations. According to the NHTSA, roughly 50% of EMS agencies run at the Basic Life Support level and cannot legally administer intravenous drugs, which includes Narcan. In this project, I wanted to investigate how quickly a patient can die from exposure to fentanyl versus oxycodone with additional analysess considering confounding variables of age and race.
 
-<img src="image/Opioid.jpg?raw=true"/>
+<img src="images/Opioid.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/Plotly-black?logo=plotly)](#)
 
