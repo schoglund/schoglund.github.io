@@ -7,7 +7,7 @@ The goal is to increase revenue and decrease bike shortages at stations across M
 
 <img src="images/BusySummer.jpeg?raw=true"/>
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/Leaflet-black?logo=leaflet](#)
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/Leaflet-black?logo=leaflet)](#)
 
 ---
 
@@ -42,7 +42,7 @@ In this project I used text processing techniques and metrics like term frequenc
 ### Forecasting Pollution Levels in Madrid using ARIMA Modeling
 Fit and fine-tuned ARIMA models to consider trend and seasonality to better forecast air quality levels. Validated prediction performance against actual levels with 80% accuracy.
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#)
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=tidyverse)](#)
 
 ---
 
