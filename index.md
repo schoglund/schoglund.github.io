@@ -2,6 +2,13 @@
 
 ---
 
+### Demand Forecasting of Cooking Classes (IN PROGRESS)
+Exploring the trends in cooking class fill rates through feature engineering and hypothesis testing for future models as a former chef's assistant.
+
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=tidyverse)](#)
+
+---
+
 ### Supplier Network Map for Global Logistics
 Developed global supply map to highlight profitable and high-trafficked shipping routes for cost-improvement projects. Created dashboard to see incoming shipments on a per-shipper basis for demand planners.
 
