@@ -32,7 +32,7 @@ Exploring the trends in cooking class fill rates through feature engineering and
 
 ---
 
-### Supplier Network Map for Global Logistics
+### Supplier Network Map for Global Logistics at Tier 1 Automotive Supplier
 Developed global supply map to highlight profitable and high-trafficked shipping routes for cost-improvement projects. Created dashboard to see incoming shipments on a per-shipper basis for demand planners.
 
 <img src="images/SupplierMap.png?raw=true" />
